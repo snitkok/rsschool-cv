@@ -1,6 +1,12 @@
 # Katerina Snitkovska
 *Open for new challenges*
 
+## Social Networks 
+
+[Github](https://github.com/snitkok)
+
+[LinkedIn](https://www.linkedin.com/in/katerina-snitkovska-890a99158/)
+
 ## Personal Information
 * Katerina Snitkovska
 * Muehlenstrasse 40, 14167 Berlin (Germany)
@@ -61,7 +67,3 @@ Taras Shevchenko National University of Kyiv, Kyiv (Ukraine)
 |----------|:-------------:|
 | Photoshop |  independent user |
 | Lightroom |    independent user   |  
-
-[Github](https://github.com/snitkok)
-
-[LinkedIn](https://www.linkedin.com/in/katerina-snitkovska-890a99158/)
