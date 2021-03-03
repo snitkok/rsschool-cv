@@ -22,3 +22,29 @@ Nihon University, Tokyo
 Expert in Translation
 
 Taras Shevchenko National University of Kyiv, Kyiv (Ukraine)
+
+## WORK EXPERIENCE
+
+**07/2020–present**
+
+**Role:** Working student in Marketing and Communications
+
+**Location:** Spotcap Global Services GmbH, Berlin
+
+**Tasks:** SMM; Content creation and editing, Social media management; Market research and analysis
+
+**09/2018–12/2018**
+
+**Role:** Internship in Marketing
+
+**Location:** Prodevart GmbH, Berlin
+
+**Tasks:** SEO and SMM; Content creation and editing, Social media management; Market research and analysis
+
+**09/2013–08/2016**
+
+**Role:** Co-worker in Austrian-Ukrainian, student newspaper
+
+**Location:** Newspaper "Die Brücke", Kyiv (Ukraine)
+
+**Tasks:** Topic selection; Interviewing; Content editing
