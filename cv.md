@@ -61,3 +61,7 @@ Taras Shevchenko National University of Kyiv, Kyiv (Ukraine)
 |----------|:-------------:|
 | Photoshop |  independent user |
 | Lightroom |    independent user   |  
+
+[Github](https://github.com/snitkok)
+
+[LinkedIn](https://www.linkedin.com/in/katerina-snitkovska-890a99158/)
