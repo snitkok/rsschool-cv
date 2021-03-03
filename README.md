@@ -1,1 +1,1 @@
-# rsschool-cv
+ttps://snitkok.github.io/rsschool-cv/cv.md
