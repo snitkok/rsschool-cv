@@ -48,3 +48,16 @@ Taras Shevchenko National University of Kyiv, Kyiv (Ukraine)
 **Location:** Newspaper "Die Brücke", Kyiv (Ukraine)
 
 **Tasks:** Topic selection; Interviewing; Content editing
+
+| Language |      Level    | 
+|----------|:-------------:|
+| Russian |  native |
+| Ukrainian |    native   |  
+| English | C1 | 
+| German | C1 |DaF C1|
+| Portuguese | B1 |   
+
+| Additional Skills |      Level    | 
+|----------|:-------------:|
+| Photoshop |  independent user |
+| Lightroom |    independent user   |  
